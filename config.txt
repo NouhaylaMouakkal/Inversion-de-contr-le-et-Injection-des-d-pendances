@@ -1,2 +1,2 @@
-ma.enset.ext.DaoImplWS
-ma.enset.Metier.MetierImpl
+ext.DaoImplWS
+Metier.MetierImpl

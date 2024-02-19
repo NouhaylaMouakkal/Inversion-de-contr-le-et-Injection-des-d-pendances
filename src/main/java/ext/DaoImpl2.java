@@ -1,6 +1,6 @@
 package ext;
 
-import ma.enset.dao.IDao;
+import dao.IDao;
 
 import java.util.Date;
 

@@ -1,7 +1,9 @@
 package dao;
 
-import java.util.Date;
+import org.springframework.stereotype.Component;
 
+import java.util.Date;
+@Component("dao")
 public class DaoImpl implements  IDao{
     @Override
     public Date getDate() {
